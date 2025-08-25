@@ -1,6 +1,6 @@
 # CineNow
 
-CineNow is a web application for browsing and discovering movies, built with React and Vite by following one of Tech With Tim's tutorials.
+CineNow is a web application for browsing and discovering movies, built with React and Vite that consumes The Movie Database (TMDB) API
 
 ## Features
 
